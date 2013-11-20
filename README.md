@@ -6,3 +6,5 @@
 
 * flex_2_col 2 columns using the 
 [Flexible Box Layout Module](http://www.w3.org/TR/css3-flexbox/)
+
+* harmonize - Layout for [Harmonize App](http://harmonize.herokuapp.com/)
