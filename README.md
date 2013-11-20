@@ -2,4 +2,9 @@
 
 ## Collection
 
-*Header - 3 columns - Footer (head_3col_foot)
+holy_grail
+: (Header - 3 columns - Footer)
+
+flex_2_col
+: 2 columns using the 
+[Flexible Box Layout Module](http://www.w3.org/TR/css3-flexbox/)

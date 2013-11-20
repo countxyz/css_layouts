@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#main {
+  display: flex;
+  min-height: 100%;
+}
+
+#left_column {
+  order: 1;
+  width: 250px;
+  background-color : blue;
+}
+
+#right_column {
+  flex: 1;
+  order: 2;
+  background-color: red;
+}
